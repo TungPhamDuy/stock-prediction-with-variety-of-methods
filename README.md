@@ -1,5 +1,8 @@
 # stock-prediction-with-variety-of-methods
 ### Thử nghiệm so sánh ứng dụng của Phân tích kỹ thuật, Machine learning và Deep learning vào dự đoán giá chứng khoán
+
+**_License: This is a personal project of Tung Pham in order to serve as the final project for the Programming Package for Finance 1 course taken at the University of Economics and Law (VNU-HCM)_** 
+
 **Thông tin chung:**
 
 **Tên đề tài:** Thử nghiệm so sánh ứng dụng của Phân tích kỹ thuật, Machine learning và Deep learning vào dự đoán giá chứng khoán
@@ -24,7 +27,6 @@ tối ưu nhất.
 
 **Dữ liệu:**
 
-Dữ liệu trong bài làm là dữ liệu giá đóng cửa điều chỉnh của Tập đoàn Microsoft, với interval cho mỗi điểm dữ liệu là 1 ngày, được lấy trong giai đoạn từ ngày 01/01/2010 đến ngày
-10/01/2023 (là thời điểm mới nhất). Dữ liệu được lấy trực tiếp từ Yahoo Finance thông qua API của yfinance.
+Dữ liệu trong bài làm là dữ liệu giá đóng cửa điều chỉnh của Tập đoàn Microsoft, với interval cho mỗi điểm dữ liệu là 1 ngày, được lấy trong giai đoạn từ ngày 01/01/2010 đến ngày 10/01/2023 (là thời điểm mới nhất). Dữ liệu được lấy trực tiếp từ Yahoo Finance thông qua API của yfinance.
 
 *Các mô hình trong bài làm có thể được áp dụng đối với bất kỳ dữ liệu cổ phiếu nào được niêm yết công khai.*
